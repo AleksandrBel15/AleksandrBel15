@@ -18,34 +18,35 @@ My current engineering focus is centered around **Offline-First applications, re
 ### 🛠️ Production-Ready Tech Stack & Tools
 
 - **Frontend Core & Architecture:**  
-  ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![FSD](https://shields.io) ![HTML5](https://shields.io)
+  <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Feature-Sliced Design (FSD)</kbd> <kbd>HTML5</kbd>
 
 - **State Management & Data Fetching:**  
-  ![Redux Toolkit](https://shields.io) ![Zustand](https://shields.io) ![Axios](https://shields.io) ![React Router](https://shields.io)
+  <kbd>Redux Toolkit</kbd> <kbd>Zustand</kbd> <kbd>Axios</kbd> <kbd>React Router</kbd>
 
 - **UI & Styling:**  
-  ![Material UI](https://shields.io) ![Bootstrap](https://shields.io) ![Sass/SCSS](https://shields.io) ![CSS3](https://shields.io)
+  <kbd>Material UI</kbd> <kbd>Bootstrap</kbd> <kbd>Sass / SCSS</kbd> <kbd>CSS3</kbd>
 
 - **Mobile Development:**  
-  ![React Native](https://shields.io) ![Expo](https://shields.io)
+  <kbd>React Native</kbd> <kbd>Expo Router</kbd>
 
 - **Backend Architecture & APIs:**  
-  ![Node.js](https://shields.io) ![NestJS](https://shields.io) ![Socket.io](https://shields.io) ![REST API](https://shields.io)
+  <kbd>Node.js</kbd> <kbd>NestJS</kbd> <kbd>Socket.io (WebSockets)</kbd> <kbd>REST API Architecture</kbd>
 
 - **Databases & ORM/ODM:**  
-  ![MongoDB](https://shields.io) ![Mongoose](https://shields.io)
+  <kbd>MongoDB</kbd> <kbd>Mongoose</kbd>
 
 - **DevOps, Cloud & Infrastructure:**  
-  ![Docker](https://shields.io) ![Kubernetes](https://shields.io) ![Helm](https://shields.io) ![Ansible](https://shields.io) ![Bash](https://shields.io) ![Vercel](https://shields.io)
+  <kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>Helm</kbd> <kbd>Ansible</kbd> <kbd>Bash Scripting</kbd> <kbd>Vercel</kbd>
 
 - **Build Tools & Linters:**  
-  ![Vite](https://shields.io) ![Webpack](https://shields.io) ![Rollup](https://shields.io) ![ESLint](https://shields.io) ![Prettier](https://shields.io) ![npm](https://shields.io)
+  <kbd>Vite</kbd> <kbd>Webpack</kbd> <kbd>Rollup</kbd> <kbd>ESLint</kbd> <kbd>Prettier</kbd> <kbd>npm</kbd>
 
 - **Testing & API Clients:**  
-  ![Jest](https://shields.io) ![Postman](https://shields.io) ![Insomnia](https://shields.io)
+  <kbd>Jest</kbd> <kbd>Postman</kbd> <kbd>Insomnia</kbd>
 
 - **Workflow & Environment:**  
-  ![Git](https://shields.io) ![GitHub](https://shields.io) ![Neovim](https://shields.io) ![Figma](https://shields.io) ![Obsidian](https://shields.io) ![ChatGPT](https://shields.io)
+  <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Neovim</kbd> <kbd>Figma</kbd> <kbd>Obsidian</kbd> <kbd>ChatGPT AI</kbd>
+
 
 ---
 
